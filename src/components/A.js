@@ -1,7 +1,6 @@
 import React from "react";
 
 const A = ({ message, posts }) => {
-  console.log(posts);
   return (
     <div>
       <h1>A Component</h1>
