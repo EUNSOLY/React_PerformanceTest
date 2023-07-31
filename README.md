@@ -1,4 +1,4 @@
-# React 성능체크 및 성능개선
+# React 성능체크 및 성능개선 연습
 
 <a href="https://eunsoly.tistory.com/44"> React.memo()에 대한 정리 내용 보기(링크)</a>
 
